@@ -1,0 +1,12 @@
+C:\Users\uwuow\source\repos\CW_last\CW_last\bin\Release\CW_last.exe.config
+C:\Users\uwuow\source\repos\CW_last\CW_last\bin\Release\CW_last.exe
+C:\Users\uwuow\source\repos\CW_last\CW_last\bin\Release\CW_last.pdb
+C:\Users\uwuow\source\repos\CW_last\CW_last\obj\Release\CW_last.csproj.AssemblyReference.cache
+C:\Users\uwuow\source\repos\CW_last\CW_last\obj\Release\CW_last.csproj.SuggestedBindingRedirects.cache
+C:\Users\uwuow\source\repos\CW_last\CW_last\obj\Release\CW_last.Form1.resources
+C:\Users\uwuow\source\repos\CW_last\CW_last\obj\Release\CW_last.Form2.resources
+C:\Users\uwuow\source\repos\CW_last\CW_last\obj\Release\CW_last.Properties.Resources.resources
+C:\Users\uwuow\source\repos\CW_last\CW_last\obj\Release\CW_last.csproj.GenerateResource.cache
+C:\Users\uwuow\source\repos\CW_last\CW_last\obj\Release\CW_last.csproj.CoreCompileInputs.cache
+C:\Users\uwuow\source\repos\CW_last\CW_last\obj\Release\CW_last.exe
+C:\Users\uwuow\source\repos\CW_last\CW_last\obj\Release\CW_last.pdb

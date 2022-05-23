@@ -1,0 +1,24 @@
+{
+  "users": [],
+  "products": [
+    {
+      "name": "product1",
+      "price": "4567",
+      "image": "C:\\Users\\uwuow\\OneDrive\\Pictures\\Пленка\\WIN_20220309_13_30_57_Pro.jpg",
+      "id": "42",
+      "category": "test"
+    },
+    {
+      "name": "fgf",
+      "price": "ds",
+      "image": "C:\\Users\\uwuow\\OneDrive\\Pictures\\Пленка\\WIN_20220309_13_30_57_Pro.jpg",
+      "id": "39",
+      "category": "test4"
+    }
+  ],
+  "category": [
+    "gh",
+    "test",
+    "test4"
+  ]
+}

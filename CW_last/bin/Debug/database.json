@@ -1,0 +1,120 @@
+{
+  "users": [
+    {
+      "username": "admin7777",
+      "psw": "12345678",
+      "role": "admin",
+      "condition": "false",
+      "order": [
+        {
+          "name": "1234",
+          "price": "1234567",
+          "count": "2",
+          "productId": "23"
+        },
+        {
+          "name": "myproduct",
+          "price": "12345",
+          "count": "4",
+          "productId": "33"
+        },
+        {
+          "name": "newProduct",
+          "price": "890",
+          "count": "2",
+          "productId": "83"
+        },
+        {
+          "name": "434",
+          "price": "434",
+          "count": "2",
+          "productId": "38"
+        }
+      ]
+    },
+    {
+      "username": "fisrtUser",
+      "psw": "12345678",
+      "role": "user",
+      "condition": "false",
+      "order": []
+    },
+    {
+      "username": "medina",
+      "psw": "12345678",
+      "role": "user",
+      "condition": "false",
+      "order": [
+        {
+          "name": "test",
+          "price": "334",
+          "count": "1"
+        },
+        {
+          "name": "myproduct",
+          "price": "12345",
+          "count": "1"
+        },
+        {
+          "name": "newProduct",
+          "price": "890",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "username": "aiperitest",
+      "psw": "12345678",
+      "role": "user",
+      "condition": "false",
+      "order": []
+    }
+  ],
+  "products": [
+    {
+      "name": "test",
+      "price": "334",
+      "image": "C:\\Users\\uwuow\\OneDrive\\Рабочий стол\\good.jpg",
+      "id": "99",
+      "category": "Паста"
+    },
+    {
+      "name": "NewNameForMyProduct",
+      "price": "12345",
+      "image": "C:\\Users\\uwuow\\OneDrive\\Рабочий стол\\good.jpg",
+      "id": "33",
+      "category": "Паста"
+    },
+    {
+      "name": "newProduct",
+      "price": "890",
+      "image": "C:\\Users\\uwuow\\OneDrive\\Рабочий стол\\Скриншот 12-05-2022 152419.jpg",
+      "id": "83",
+      "category": "newCategory"
+    },
+    {
+      "name": "434",
+      "price": "434",
+      "image": "C:\\Users\\uwuow\\OneDrive\\Рабочий стол\\good.jpg",
+      "id": "38",
+      "category": "newCategory"
+    },
+    {
+      "name": "1234",
+      "price": "1234567",
+      "image": "C:\\Users\\uwuow\\OneDrive\\Рабочий стол\\good.jpg",
+      "id": "23",
+      "category": "test"
+    }
+  ],
+  "category": [
+    "gh",
+    "test",
+    "test4",
+    "Паста",
+    "newCategory",
+    "newCategory2",
+    "не выбрано",
+    "newCategoryKursovaya"
+  ]
+}
